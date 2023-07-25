@@ -20,7 +20,8 @@ You can click the Preview link to take a look at your changes.
 </a>
 </div>
 --->
-## 🔎Data Analysis & ☁Cloud & 🛢DataBase
+<!--- ## 🔎Data Analysis & ☁Cloud & 🛢DataBase --->
+## I can handle 🔎🔎
 <p align="center">
 <img src="https://img.shields.io/badge/Python-0A9EDC?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
@@ -39,8 +40,15 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </p>
+<p align="center">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+</p>
 <br>
 
+<!--
 ## ⚙️ Backend Stack
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -55,6 +63,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 </p>
+-->
 
 ## ⛏ IDE & Tool
 <p align="center">
