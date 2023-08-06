@@ -8,6 +8,9 @@
 SangHui48/SangHui48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Connect with me:
+[![Notion Badge](http://img.shields.io/badge/-PORTFOLIO-F6F6F6?style=flat-square&logo=notion&logoColor=black&link=https://cooked-kitten-0a2.notion.site/976ef6b518ff4080b8273678d9aa0ead?pvs=4)](https://cooked-kitten-0a2.notion.site/976ef6b518ff4080b8273678d9aa0ead?pvs=4)
+<br><br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangHui48&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 ![SangHui48's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangHui48&show_icons=true&theme=highcontrast)
@@ -25,8 +28,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 --->
 <!--- ## 🔎Data Analysis & ☁Cloud & 🛢DataBase --->
-### Connect with me:
-[![Notion Badge](http://img.shields.io/badge/-PORTFOLIO-F6F6F6?style=flat-square&logo=notion&logoColor=black&link=https://cooked-kitten-0a2.notion.site/976ef6b518ff4080b8273678d9aa0ead?pvs=4)](https://cooked-kitten-0a2.notion.site/976ef6b518ff4080b8273678d9aa0ead?pvs=4)
+
 <!--- [![GitHub Badge](http://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&link=https://holly-21.github.io/)](https://holly-21.github.io/) --->
 ## I can handle 🔎🔎
 <p align="center">
