@@ -21,6 +21,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 --->
 <!--- ## 🔎Data Analysis & ☁Cloud & 🛢DataBase --->
+### Connect with me:
+[![Notion Badge](http://img.shields.io/badge/-PORTFOLIO-F6F6F6?style=flat-square&logo=notion&logoColor=black&link=https://cooked-kitten-0a2.notion.site/976ef6b518ff4080b8273678d9aa0ead?pvs=4)](https://cooked-kitten-0a2.notion.site/976ef6b518ff4080b8273678d9aa0ead?pvs=4)
+<!--- [![GitHub Badge](http://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&link=https://holly-21.github.io/)](https://holly-21.github.io/) --->
 ## I can handle 🔎🔎
 <p align="center">
 <img src="https://img.shields.io/badge/Python-0A9EDC?style=for-the-badge&logo=Python&logoColor=white">
