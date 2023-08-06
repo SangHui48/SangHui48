@@ -3,15 +3,19 @@
 - 🌱 I’m currently learning ... algorism
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... hansang1993@gmail.com -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangHui48&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!---
 SangHui48/SangHui48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangHui48&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
 ![SangHui48's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangHui48&show_icons=true&theme=highcontrast)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hansang0408)](https://solved.ac/hansang0408)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangHui48&layout=compact&theme=cobalt)
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hansang0408)](https://solved.ac/hansang0408)
+
 
 <!--- top repo 참고 
 <div>
@@ -49,6 +53,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 <br>
+
 
 <!--
 ## ⚙️ Backend Stack
